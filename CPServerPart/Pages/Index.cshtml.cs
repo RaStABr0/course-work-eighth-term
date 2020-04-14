@@ -19,7 +19,6 @@ namespace CPServerPart.Pages
 
         public void OnGet()
         {
-
         }
     }
 }
